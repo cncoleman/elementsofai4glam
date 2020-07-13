@@ -1,7 +1,7 @@
 # Elements of AI for GLAM
 Elements of AI is a free online course developed at the University of Helsinki that addresses the theory behind AI. The course is intended for people who want to learn what AI is, what can and cannot be done with AI. The study group provides a context for the material.
 
-If you are interested in getting your hands into the code, Daniel van Strien @davanstrien is [hosting a study group](https://github.com/davanstrien/fastai4GLAMS/) for the Fast.ai course Deep Learning for Coders.
+If you are interested in getting your hands into the code, Daniel van Strien is [hosting a study group](https://github.com/davanstrien/fastai4GLAMS/) for the Fast.ai course Deep Learning for Coders.
 
 ## Sign up for a summer cohort
 Enter your email address [in this form](https://forms.gle/USBdJioEAfcx21bC6) if you would like to join a summer cohort beginning July 2020.
