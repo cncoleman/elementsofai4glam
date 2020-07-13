@@ -1,14 +1,14 @@
 # Elements of AI for GLAM
 Elements of AI is a free online course developed at the University of Helsinki that addresses the theory behind AI. The course is intended for people who want to learn what AI is, what can and cannot be done with AI. The study group provides a context for the material.
 
-# Sign up for a summer cohort
+## Sign up for a summer cohort
 Enter your email address [in this form](https://forms.gle/USBdJioEAfcx21bC6) if you would like to join a summer cohort beginning July 2020.
 
-# Why a study group?
+## Why a study group?
 
 Though Elements of AI is designed to be completed at your own pace, the study group meets regularly, for one hour each week, to review the course one chapter at a time. Working through and discussing the material together provides encouragement to complete the course and helps to ground the theory of AI and concerns surrounding its applications in real-world needs and interests in galleries, libraries, archives, museums and records management. 
 
-# About the course and study group
+## About the course and study group
 
 The Elements course is organized in six chapters, so the study group will meet for seven weeks. The first meeting is a kick-off for introductions to each other and the material. It can take anywhere from 30-90 minutes to complete each chapter. 
 
